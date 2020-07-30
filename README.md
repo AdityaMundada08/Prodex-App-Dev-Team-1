@@ -4,7 +4,7 @@
 
 ## Start making your own portfolio page
 
-~ Curse CSS
+~ Curse CSS ~
 
 ## Complete your page
 
